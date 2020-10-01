@@ -9,8 +9,6 @@ The Go Chase It project is an autonomous vehicle simulation, with two main compo
 .
 ├── ball_chaser
 │   ├── CMakeLists.txt
-│   ├── include
-│   │   └── ball_chaser
 │   ├── launch
 │   │   └── ball_chaser.launch
 │   ├── package.xml
